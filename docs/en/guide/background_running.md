@@ -25,7 +25,7 @@ It is recommended to perform the following operations after encountering actual 
 
 ### Common ways to keep the app running in the background
 
-1. Check your BATTERT options in the system SETTINGS app and disable the battery optimization for LifeUp.
+1. Check your BATTERY options in the system SETTINGS app and disable the battery optimization for LifeUp.
 2. Lock LifeUp in your multitasking pane.
 3. Enable the `Quick Add notification` in the Task Setting screen.
 
